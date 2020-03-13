@@ -1,4 +1,5 @@
 # isign-OK
+```
 1 下载代码
 git clone https://github.com/apperian/isign
 2 进入isign目录执行安装命令
@@ -85,3 +86,4 @@ isign 命令也可以指定各参数位置 具体请参照官网
 
 开发者工具登陆工具：Appuploader
 win签名工具：苹果应用一键签名工具 appresign  iosappsigner
+```
